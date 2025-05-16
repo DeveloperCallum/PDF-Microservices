@@ -1,0 +1,18 @@
+[submodule "PDF-Microservices-Worker-Service"]
+	path = PDF-Microservices-Worker-Service
+	url = https://github.com/DeveloperCallum/PDF-Microservices-Worker-Service
+[submodule "PDF-Microservices-Worker-Management-Service"]
+	path = PDF-Microservices-Worker-Management-Service
+	url = https://github.com/DeveloperCallum/PDF-Microservices-Worker-Management-Service
+[submodule "PDF-Microservices-Worker-Libary"]
+	path = PDF-Microservices-Worker-Libary
+	url = https://github.com/DeveloperCallum/PDF-Microservices-Worker-Libary
+[submodule "PDF-Microservices-Main-Libary"]
+	path = PDF-Microservices-Main-Libary
+	url = https://github.com/DeveloperCallum/PDF-Microservices-Main-Libary
+[submodule "PDF-Microservices-File-Configurations"]
+	path = PDF-Microservices-File-Configurations
+	url = https://github.com/DeveloperCallum/PDF-Microservices-File-Configurations
+[submodule "PDF-Microservices-Eukrea"]
+	path = PDF-Microservices-Eukrea
+	url = https://github.com/DeveloperCallum/PDF-Microservices-Eukrea
