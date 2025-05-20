@@ -16,3 +16,6 @@
 [submodule "PDF-Microservices-Eukrea"]
 	path = PDF-Microservices-Eukrea
 	url = https://github.com/DeveloperCallum/PDF-Microservices-Eukrea
+[submodule "PDF-Microservices-Backend-Service"]
+	path = PDF-Microservices-Backend-Service
+	url = https://github.com/DeveloperCallum/PDF-Microservices-Backend-Service
