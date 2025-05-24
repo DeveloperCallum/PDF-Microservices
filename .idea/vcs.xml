@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-Backend-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-Eukrea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-File-Configurations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-Main-Libary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-Worker-Libary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-Worker-Management-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PDF-Microservices-Worker-Service" vcs="Git" />
+  </component>
+</project>

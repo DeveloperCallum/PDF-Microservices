@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PDF-Microservices.iml" filepath="$PROJECT_DIR$/.idea/PDF-Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDF-Microservices-File-Configurations/PDF-Microservices-File-Configurations.iml" filepath="$PROJECT_DIR$/PDF-Microservices-File-Configurations/PDF-Microservices-File-Configurations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDF-Microservices-Main-Libary/PDFMicroserviceLib.iml" filepath="$PROJECT_DIR$/PDF-Microservices-Main-Libary/PDFMicroserviceLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDF-Microservices-Worker-Libary/WorkerLib.iml" filepath="$PROJECT_DIR$/PDF-Microservices-Worker-Libary/WorkerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDF-Microservices-Worker-Management-Service/WorkerManagementService.iml" filepath="$PROJECT_DIR$/PDF-Microservices-Worker-Management-Service/WorkerManagementService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDF-Microservices-Worker-Service/WorkerServiceNode.iml" filepath="$PROJECT_DIR$/PDF-Microservices-Worker-Service/WorkerServiceNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PDF-Microservices-Eukrea/eureka.iml" filepath="$PROJECT_DIR$/PDF-Microservices-Eukrea/eureka.iml" />
+    </modules>
+  </component>
+</project>

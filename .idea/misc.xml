@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PDF-Microservices-Worker-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/PDF-Microservices-Worker-Management-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/PDF-Microservices-Worker-Libary/pom.xml" />
+        <option value="$PROJECT_DIR$/PDF-Microservices-Main-Libary/pom.xml" />
+        <option value="$PROJECT_DIR$/PDF-Microservices-Eukrea/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK" />
+</project>
