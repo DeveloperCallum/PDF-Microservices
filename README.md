@@ -28,4 +28,4 @@ PDFs are widely used for document storage and data sharing, yet extracting struc
 ---
 TODO
 - Fontend
-- Finish Express Integration; Proxying complete, service is fully workinng. Need to allow the API to provide statuses.
+- Finish Express Integration; Proxying complete, service is fully workinng. Need to allow the API to provide status API.
