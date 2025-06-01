@@ -1,5 +1,5 @@
 # Problem
-PDFs are widely used for document storage and data sharing, yet extracting structured information, especially tables, can be **challenging and time-consuming**. Many organizations struggle to retrieve tabular data efficiently for further processing, often relying on manual methods or third-party tools that don't always give enough flexibility or in house tools to complete the extraction, and the tools that do are very expensive.
+PDFs are widely used for document storage and data sharing, yet extracting structured information, especially tables, can be **challenging and time-consuming**. Many organisations struggle to retrieve tabular data efficiently for further processing, often relying on manual methods or third-party tools that don't always give enough flexibility or in house tools to complete the extraction.
 
 ### Motivation for building this project:
 1. **Learn How to Build Microservices** – By designing a modular system that processes PDFs, extracts tables, and serves structured data, I will explore the principles of **service decomposition, scalability, and communication**.
@@ -28,4 +28,4 @@ PDFs are widely used for document storage and data sharing, yet extracting struc
 ---
 TODO
 - Fontend
-- Finish Express Integration; Proxying complete, service is fully workinng. Need to allow the API to provide statuses.
+- Finish Express Integration; Proxying complete, service is fully workinng. Need to allow the API to provide status API.
