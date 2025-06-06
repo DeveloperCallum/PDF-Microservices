@@ -16,17 +16,18 @@ PDFs are widely used for document storage and data sharing, yet extracting struc
 ## Network Arch
 ![image](https://github.com/user-attachments/assets/067c915d-8d19-43a9-aba7-55542f880e85)
 
-
 # Client flow diagram
 ![image](https://github.com/user-attachments/assets/e0447144-513f-4db6-b518-a69a4bcafd43)
-
 
 # PostgresSQL Database Configuration
 ![image](https://github.com/user-attachments/assets/9fae3b2d-5399-41b7-b326-c933fa200f66)
 
-
 ---
 TODO
-- Fontend
-- Finish Express Integration; Proxying complete, service is fully workinng. Need to allow the API to provide status API.
+- Font-end
+- Finish Express Integration; Proxying complete, service is fully working. Need to allow the API to provide status API.
 - Change the worker service to allow for processing of pdf to images, also allow nodes to disable specific job types.
+
+# How to setup
+1. `clean compile install` Main libary, followed by Worker Libary.
+2. `clean compile package` Worker-Management-Service and Worker  Service.

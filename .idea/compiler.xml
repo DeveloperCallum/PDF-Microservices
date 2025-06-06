@@ -9,8 +9,8 @@
         <module name="WorkerLib" />
         <module name="PDFMicroserviceLib" />
         <module name="WorkerServiceNode" />
-        <module name="WorkerManagementService" />
         <module name="eureka" />
+        <module name="WorkerManagementService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
