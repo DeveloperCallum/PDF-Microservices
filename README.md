@@ -29,3 +29,4 @@ PDFs are widely used for document storage and data sharing, yet extracting struc
 TODO
 - Fontend
 - Finish Express Integration; Proxying complete, service is fully workinng. Need to allow the API to provide status API.
+- Change the worker service to allow for processing of pdf to images, also allow nodes to disable specific job types.
