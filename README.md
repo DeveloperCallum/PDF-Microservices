@@ -27,7 +27,13 @@ TODO
 - Font-end
 - Finish Express Integration; Proxying complete, service is fully working. Need to allow the API to provide status API.
 - Change the worker service to allow for processing of pdf to images, also allow nodes to disable specific job types.
+- error endpoint for frontend clients.
 
 # How to setup
 1. `clean compile install` Main libary, followed by Worker Libary.
 2. `clean compile package` Worker-Management-Service and Worker  Service.
+3. `docker compose up --build` inside the PDF-Microservices-File-Configurations/Job Service
+This will start up the job service.
+
+To start the backend-server,
+run `docker compose up --build` inside the PDF-Microservices-Backend-Service.
