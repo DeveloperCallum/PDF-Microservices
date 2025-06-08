@@ -37,3 +37,6 @@ This will start up the job service.
 
 To start the backend-server,
 run `docker compose up --build` inside the PDF-Microservices-Backend-Service.
+
+# Postman documentation
+[Go to documentation](https://.postman.co/workspace/PDF-Microservice~cbd44020-3a7a-4ef1-8fb5-64fe1cbd164d/collection/7115964-f555d23a-1981-4ebf-b333-07510ff52cf0?action=share&creator=7115964)
