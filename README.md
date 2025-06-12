@@ -22,6 +22,10 @@ PDFs are widely used for extractionRequest storage and data sharing, yet extract
 # PostgresSQL Database Configuration
 ![image](https://github.com/user-attachments/assets/9fae3b2d-5399-41b7-b326-c933fa200f66)
 
+#Communication
+<img width="1154" alt="Screenshot 2025-06-12 at 21 55 56" src="https://github.com/user-attachments/assets/caaa936e-4327-43a7-b45a-6afa5905763e" />
+
+
 ---
 TODO
 - Font-end
