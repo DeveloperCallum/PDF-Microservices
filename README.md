@@ -20,7 +20,7 @@ PDFs are widely used for extractionRequest storage and data sharing, yet extract
 ![image](https://github.com/user-attachments/assets/e0447144-513f-4db6-b518-a69a4bcafd43)
 
 # Communication
-<img width="1154" alt="Screenshot 2025-06-12 at 21 55 56" src="https://github.com/user-attachments/assets/caaa936e-4327-43a7-b45a-6afa5905763e" />
+<img width="1191" alt="Screenshot 2025-06-13 at 19 28 13" src="https://github.com/user-attachments/assets/a3ecaf8d-4619-4a68-97f5-17e4ac45429e" />
 
 
 ---
